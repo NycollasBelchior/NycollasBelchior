@@ -66,15 +66,15 @@ My goal is simple:
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                     DEVELOPMENT TOOLKIT                    │
+│                     DEVELOPMENT TOOLKIT                     │
 ├─────────────────────────────────────────────────────────────┤
-│  CODE       → VS Code                                      │
-│  VERSION    → Git / GitHub                                 │
-│  RUNTIME    → Node.js                                     │
-│  DEPLOY     → Vercel                                      │
-│  DESIGN     → Figma / Canva                               │
-│  TERMINAL   → Git Bash                                    │
-│  AI         → AI-assisted development                     │
+│  CODE       → VS Code                                       │
+│  VERSION    → Git / GitHub                                  │
+│  RUNTIME    → Node.js                                       │
+│  DEPLOY     → Vercel                                        │
+│  DESIGN     → Figma / Canva                                 │
+│  TERMINAL   → Git Bash                                      │
+│  AI         → AI-assisted development                       │
 └─────────────────────────────────────────────────────────────┘
 ```
 
