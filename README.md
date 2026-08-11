@@ -1,4 +1,4 @@
-# ⚡ NYCK // SYSTEM ONLINE
+ # ⚡ NYCK // SYSTEM ONLINE
 
 <div align="center">
 
@@ -24,8 +24,8 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                     SYSTEM PROFILE                           ║
 ╠══════════════════════════════════════════════════════════════╣
-║ NAME       : Nyck                                              ║
-║ ROLE       : Developer / Student                              ║
+║ NAME       : Nyck                                            ║
+║ ROLE       : Developer / Student                             ║
 ║ CURRENT    : Technical Development of Systems                ║
 ║ MAIN STACK : JavaScript                                      ║
 ║ FOCUS      : Web Development • UI • Software                 ║
