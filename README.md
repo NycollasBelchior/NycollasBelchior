@@ -93,7 +93,7 @@ My goal is simple:
 
 Restaurant landing page focused on modern UI, responsive design and conversion.
 
-<a href="https://github.com/NycollasBelchior/site---Bella-Napoli">
+<a href="https://site-bella-napoli.vercel.app/">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -105,7 +105,7 @@ Restaurant landing page focused on modern UI, responsive design and conversion.
 
 Premium restaurant website concept with dark visual identity and responsive interface.
 
-<a href="https://github.com/NycollasBelchior/steakhouse">
+<a href="[https://github.com/NycollasBelchior/steakhouse](https://steakhouse-nine.vercel.app/)">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -121,7 +121,7 @@ Premium restaurant website concept with dark visual identity and responsive inte
 
 Modern coffee shop interface created to practice layout, responsiveness and visual hierarchy.
 
-<a href="https://github.com/NycollasBelchior/sitecoffee">
+<a href="[https://github.com/NycollasBelchior/sitecoffee](https://sitecoffee.vercel.app/)">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
